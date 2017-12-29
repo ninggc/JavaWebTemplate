@@ -1,4 +1,5 @@
 # 使用了Struts2和Hibernate的Java web模版
+# 直接导入到idea或者通过maven引入即可使用
 ## 目录简介
 1. `src` 主要源码目录
 1. `web` jsp等目录
